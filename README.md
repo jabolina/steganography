@@ -1,6 +1,7 @@
 # Steganography
 
-A steganography implementation in python, later will add image encryption, because it's fun.
+A steganography implementation in python, later will add image encryption, because it's fun. Compression, wouldn't it be nice? 
+Images sizes on disk are getting bigger.
 
 ## Use
 
