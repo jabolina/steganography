@@ -1,2 +1,5 @@
-# steganography
-steganography in python
+# Steganography
+
+## Use
+
+    $ python main.py <show|hide> original_image_path.png image_to_hide.png steg_location_to_save.png
